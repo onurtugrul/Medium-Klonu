@@ -1,0 +1,23 @@
+body{
+    font-family: 'PT Serif', serif;font-family: 'PT Serif', serif;
+}
+
+article,section,aside{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bg-blue{
+    background-color: #C4E2FF;
+}
+
+.border-bottom-dark{
+    border: 1px solid #414141;
+}
+
+.aside-buttons > li{
+    margin-bottom: 11px;
+}
+
+.border-top-dark{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
